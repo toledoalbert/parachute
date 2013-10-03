@@ -18,6 +18,11 @@ body{
 	height: 40px !important;
 }
 
+input.mainIn{
+	font-size: 20px;
+	color: rgb(255, 133, 0);
+}
+
 .mainIn.btn{
 	height: 50px !important;
 }
