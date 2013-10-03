@@ -1,0 +1,70 @@
+
+body{
+	background-image: url(../img/background2.jpg);
+}
+
+.brand{
+	margin-top: 15%;
+}
+
+.brand h1{
+	font-size: 60px;
+	color: white;
+	text-shadow: 1px 1px 2px rgba(9, 6, 6, 1);
+}
+
+.mainIn{
+	margin-top: 50px;
+	height: 40px !important;
+}
+
+.mainIn.btn{
+	height: 50px !important;
+}
+
+.desc{
+	background-color: rgba(0, 0, 0, 0.34);
+	color: white;
+	font-weight: lighter;
+	font-size: 30px;
+	padding: 20px;
+	width: 40%;
+	margin-left: 43%;
+	line-height: 120%;
+	margin-top: 30px;
+}
+
+.btn-cstm {
+color: #ffffff;
+text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+background-color: #00E700;
+background-image: -moz-linear-gradient(top, #62c462, #51a351);
+background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#62c462), to(#51a351));
+background-image: -webkit-linear-gradient(top, #62c462, #51a351);
+background-image: -o-linear-gradient(top, #62c462, #51a351);
+background-image: linear-gradient(to bottom, #0DE40D, #399939);
+background-repeat: repeat-x;
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff62c462', endColorstr='#ff51a351', GradientType=0);
+border-color: #51a351 #51a351 #387038;
+border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
+filter: progid:DXImageTransform.Microsoft.gradient(enabled = false);
+}
+
+@media (max-width: 767px) { 
+
+	.mainIn{
+	margin-top: 5px;
+	height: 40px !important;
+	}
+
+	.mainIn.btn{
+	width: 100%;
+	}
+
+	.desc{
+		font-size: 19px;
+		margin-left: 0px;
+		width: 90%;
+	}
+
+}
