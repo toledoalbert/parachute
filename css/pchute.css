@@ -55,6 +55,11 @@ border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
 filter: progid:DXImageTransform.Microsoft.gradient(enabled = false);
 }
 
+.btn-cstm:hover{
+	color: white !important;
+	background-color: #289B28;
+}
+
 @media (max-width: 767px) { 
 
 	.mainIn{
@@ -72,4 +77,9 @@ filter: progid:DXImageTransform.Microsoft.gradient(enabled = false);
 		width: 90%;
 	}
 
+	.brand h1{
+		margin-bottom: 30px;
+	}
+
 }
+
