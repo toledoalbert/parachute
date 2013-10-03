@@ -4,13 +4,13 @@
   <title>Parachute | Land on your feet when relocated!</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <!-- Bootstrap -->
-  <link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
+  <link href="css/bootstrap.css" rel="stylesheet" media="screen">
   <link href="css/pchute.css" rel="stylesheet" media="screen">
 
 </head>
 <body>
   <div class="container">
-    <div class="text-center brand"> 
+    <div class="text-center brandName"> 
       <h1>Parachute</h1>
       <div class="row">
         <div class="span12">
@@ -36,7 +36,7 @@
 
   <script src="js/jquery.min.js"></script>
   <script src="js/bootstrap.min.js"></script>
-    <script>
+  <script>
   $( document ).ready(function() {
     var images = ['.jpg', '2.jpg', '3.jpg', '4.jpg', '5.jpg', '6.jpg', '7.jpg', '8.jpg'];
     $('body').css({'background-image': 'url(img/background' + images[Math.floor(Math.random() * images.length)] + ')'});
