@@ -137,8 +137,10 @@ input.mainIn{
 	margin-top: 60px;
 }
 
-.results h3{
-	font-weight: lighter;
+.results h3 {
+font-weight: lighter;
+color: white;
+background: #000;
 }
 
 

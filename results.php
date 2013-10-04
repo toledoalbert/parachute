@@ -53,7 +53,7 @@
           <div class="thumbnail clearfix">
             <img src="img/background.jpg" alt="ALT NAME" class="pull-left span1 clearfix" style='margin-right:2px'>
             <div class="caption" class="pull-left">
-              
+
               <div class="price">
                 <h1 class="text-center price">      
                   $100K
@@ -97,7 +97,7 @@
           <div class="thumbnail clearfix">
             <img src="img/background.jpg" alt="ALT NAME" class="pull-left span1 clearfix" style='margin-right:2px'>
             <div class="caption" class="pull-left">
-              
+
               <div class="price">
                 <h1 class="text-center price">      
                   $100K
@@ -119,7 +119,29 @@
           <div class="thumbnail clearfix">
             <img src="img/background.jpg" alt="ALT NAME" class="pull-left span1 clearfix" style='margin-right:2px'>
             <div class="caption" class="pull-left">
+
+              <div class="price">
+                <h1 class="text-center price">      
+                  $100K
+                </h1>
+              </div>
               
+              <div class="info text-center">
+                <p>Mariners Cove <br> Hampton VA</p>
+                <p>Email: albert@toledo.com</p> 
+                <p>Phone: 757 634 6555</p>
+              </div>
+
+              
+            </div>
+          </div>
+        </div>
+
+        <div class="sect">
+          <div class="thumbnail clearfix">
+            <img src="img/background.jpg" alt="ALT NAME" class="pull-left span1 clearfix" style='margin-right:2px'>
+            <div class="caption" class="pull-left">
+
               <div class="price">
                 <h1 class="text-center price">      
                   $100K
@@ -138,12 +160,12 @@
         </div>
       </div>
       <div class="span4 rent">
-        <h3>Rentals</h3>
+        <h3>Recreational Vehicles</h3>
         <div class="sect">
           <div class="thumbnail clearfix">
             <img src="img/background.jpg" alt="ALT NAME" class="pull-left span1 clearfix" style='margin-right:2px'>
             <div class="caption" class="pull-left">
-              
+
               <div class="price">
                 <h1 class="text-center price">      
                   $100K
@@ -164,7 +186,29 @@
           <div class="thumbnail clearfix">
             <img src="img/background.jpg" alt="ALT NAME" class="pull-left span1 clearfix" style='margin-right:2px'>
             <div class="caption" class="pull-left">
+
+              <div class="price">
+                <h1 class="text-center price">      
+                  $100K
+                </h1>
+              </div>
               
+              <div class="info text-center">
+                <p>Mariners Cove <br> Hampton VA</p>
+                <p>Email: albert@toledo.com</p> 
+                <p>Phone: 757 634 6555</p>
+              </div>
+
+              
+            </div>
+          </div>
+        </div>
+
+        <div class="sect">
+          <div class="thumbnail clearfix">
+            <img src="img/background.jpg" alt="ALT NAME" class="pull-left span1 clearfix" style='margin-right:2px'>
+            <div class="caption" class="pull-left">
+
               <div class="price">
                 <h1 class="text-center price">      
                   $100K
@@ -181,23 +225,65 @@
             </div>
           </div>
         </div><div class="sect">
+          <div class="thumbnail clearfix">
+            <img src="img/background.jpg" alt="ALT NAME" class="pull-left span1 clearfix" style='margin-right:2px'>
+            <div class="caption" class="pull-left">
+
+              <div class="price">
+                <h1 class="text-center price">      
+                  $100K
+                </h1>
+              </div>
+              
+              <div class="info text-center">
+                <p>Mariners Cove <br> Hampton VA</p>
+                <p>Email: albert@toledo.com</p> 
+                <p>Phone: 757 634 6555</p>
+              </div>
+
+              
+            </div>
+          </div>
+        </div><div class="sect">
+          <div class="thumbnail clearfix">
+            <img src="img/background.jpg" alt="ALT NAME" class="pull-left span1 clearfix" style='margin-right:2px'>
+            <div class="caption" class="pull-left">
+
+              <div class="price">
+                <h1 class="text-center price">      
+                  $100K
+                </h1>
+              </div>
+              
+              <div class="info text-center">
+                <p>Mariners Cove <br> Hampton VA</p>
+                <p>Email: albert@toledo.com</p> 
+                <p>Phone: 757 634 6555</p>
+              </div>
+
+              
+            </div>
+          </div>
+        </div>
+
+        <div class="sect">
         <div class="thumbnail clearfix">
           <img src="img/background.jpg" alt="ALT NAME" class="pull-left span1 clearfix" style='margin-right:2px'>
           <div class="caption" class="pull-left">
-            
+
             <div class="price">
               <h1 class="text-center price">      
                 $100K
               </h1>
             </div>
-            
+
             <div class="info text-center">
               <p>Mariners Cove <br> Hampton VA</p>
               <p>Email: albert@toledo.com</p> 
               <p>Phone: 757 634 6555</p>
             </div>
 
-            
+
           </div>
         </div>
       </div>
