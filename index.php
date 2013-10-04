@@ -11,12 +11,12 @@
 <body>
   <div class="container">
     <div class="text-center brandName"> 
-      <h1>Parachute</h1>
+      <h1><b>Para</b>chute</h1>
       <div class="row">
         <div class="span12">
-          <form method="get" action="/" class="form-inline" >
-            <input name="q" class="span5 mainIn" type="text"  placeholder="$ Enter Salary" >
-            <input name="loc" class="span5 mainIn" type="text"  placeholder="Enter Zip Code">
+          <form method="get" action="results.php" class="form-inline" >
+            <input name="salary" class="span5 mainIn" type="text"  placeholder="$ Enter Salary" >
+            <input name="zip" class="span5 mainIn" type="text"  placeholder="Enter Zip Code">
             <button type="submit" class="btn btn-cstm mainIn" value="Go!"> <i class="icon-search icon-white"></i> Go!</button>
           </form>
         </div>

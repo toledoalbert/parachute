@@ -18,12 +18,12 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="parachute brand" href="./index.html">Parachute</a>
+          <a class="parachute brand" href="./index.php"><b>Para</b>chute</a>
           <div class="nav-collapse collapse">
             <ul class="nav pull-right">
-              <form class="navbar-form form-inline pull-right">
-    <input type="text" placeholder="Enter Salary">
-    <input type="password" placeholder="Enter Zip Code">
+              <form class="navbar-form form-inline pull-right" method="get" action="results.php">
+    <input type="text" placeholder="Enter Salary" name="salary" class="inputField">
+    <input type="password" placeholder="Enter Zip Code" name="zip" class="inputField">
     <button type="submit" class="btn btn-success"><i class="icon-search icon-white"></i>Go!</button>
 </form>
             </ul>
