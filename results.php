@@ -226,7 +226,7 @@
           </div>
         </div><div class="sect">
           <div class="thumbnail clearfix">
-            <img src="img/background.jpg" alt="ALT NAME" class="pull-left span1 clearfix" style='margin-right:2px'>
+            <img src="ATV/Vehicle 1/img.jpg" alt="ALT NAME" class="pull-left span1 clearfix" style='margin-right:2px'>
             <div class="caption" class="pull-left">
 
               <div class="price">
@@ -246,7 +246,7 @@
           </div>
         </div><div class="sect">
           <div class="thumbnail clearfix">
-            <img src="img/background.jpg" alt="ALT NAME" class="pull-left span1 clearfix" style='margin-right:2px'>
+            <img src="ATV/Vehicle 2/img.jpg" alt="ALT NAME" class="pull-left span1 clearfix" style='margin-right:2px'>
             <div class="caption" class="pull-left">
 
               <div class="price">
@@ -268,7 +268,7 @@
 
         <div class="sect">
         <div class="thumbnail clearfix">
-          <img src="img/background.jpg" alt="ALT NAME" class="pull-left span1 clearfix" style='margin-right:2px'>
+          <img src="ATV/Vehicle 3/img.jpg" alt="ALT NAME" class="pull-left span1 clearfix" style='margin-right:2px'>
           <div class="caption" class="pull-left">
 
             <div class="price">
