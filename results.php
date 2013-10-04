@@ -48,89 +48,95 @@
       </div>
       <div class="span4 home">
         <h3>Homes</h3>
+
         <div class="sect">
-          <div class="row text-left">
-            <div class="span3">
-              <img src="img/background.jpg" alt="">
-            </div>
-            <div class="span9">
-              <div class="name">My future house</div>
-              <div class="address">124A Mariners Cove Hampton VA</div>
-              <div class="price">$100,000</div>
+          <div class="thumbnail clearfix">
+            <img src="img/background.jpg" alt="ALT NAME" class="pull-left span1 clearfix" style='margin-right:2px'>
+            <div class="caption" class="pull-left">
+              
+              <h4>      
+                <a href="#" >Luis Felipe Kaufmann</a>
+              </h4>
+              <small><b>RG: </b>99384877</small>
             </div>
           </div>
         </div>
+
         <div class="sect">
-          <div class="row text-left">
-            <div class="span3">
-              <img src="img/background.jpg" alt="">
+          <div class="thumbnail clearfix">
+            <img src="img/background.jpg" alt="ALT NAME" class="pull-left span1 clearfix" style='margin-right:2px'>
+            <div class="caption" class="pull-left">
+              
+              <h4>      
+                <a href="#" >Luis Felipe Kaufmann</a>
+              </h4>
+              <small><b>RG: </b>99384877</small>
             </div>
-            <div class="span9">
-              <div class="name">My future house</div>
-              <div class="address">124A Mariners Cove Hampton VA</div>
-              <div class="price">$100,000</div>
-            </div>
-          </div>
-        </div><div class="sect">
-        <div class="row text-left">
-          <div class="span3">
-            <img src="img/background.jpg" alt="">
-          </div>
-          <div class="span9">
-            <div class="name">My future house</div>
-            <div class="address">124A Mariners Cove Hampton VA</div>
-            <div class="price">$100,000</div>
           </div>
         </div>
-      </div><div class="sect">
-      <div class="row text-left">
-        <div class="span3">
-          <img src="img/background.jpg" alt="">
+
+        <div class="sect">
+          <div class="thumbnail clearfix">
+            <img src="img/background.jpg" alt="ALT NAME" class="pull-left span1 clearfix" style='margin-right:2px'>
+            <div class="caption" class="pull-left">
+              
+              <h4>      
+                <a href="#" >Luis Felipe Kaufmann</a>
+              </h4>
+              <small><b>RG: </b>99384877</small>
+            </div>
+          </div>
         </div>
-        <div class="span9">
-          <div class="name">My future house</div>
-          <div class="address">124A Mariners Cove Hampton VA</div>
-          <div class="price">$100,000</div>
+
+        <div class="sect">
+          <div class="thumbnail clearfix">
+            <img src="img/background.jpg" alt="ALT NAME" class="pull-left span1 clearfix" style='margin-right:2px'>
+            <div class="caption" class="pull-left">
+              
+              <h4>      
+                <a href="#" >Luis Felipe Kaufmann</a>
+              </h4>
+              <small><b>RG: </b>99384877</small>
+            </div>
+          </div>
         </div>
       </div>
+      <div class="span4 rent">
+        <h3>Rentals</h3>
+        <div class="sect">
+                    <div class="thumbnail clearfix">
+            <img src="img/background.jpg" alt="ALT NAME" class="pull-left span1 clearfix" style='margin-right:2px'>
+            <div class="caption" class="pull-left">
+              
+              <h4>      
+                <a href="#" >Luis Felipe Kaufmann</a>
+              </h4>
+              <small><b>RG: </b>99384877</small>
+            </div>
+          </div>
+        </div><div class="sect">
+                  <div class="thumbnail clearfix">
+            <img src="img/background.jpg" alt="ALT NAME" class="pull-left span1 clearfix" style='margin-right:2px'>
+            <div class="caption" class="pull-left">
+              
+              <h4>      
+                <a href="#" >Luis Felipe Kaufmann</a>
+              </h4>
+              <small><b>RG: </b>99384877</small>
+            </div>
+          </div>
+      </div><div class="sect">
+                <div class="thumbnail clearfix">
+            <img src="img/background.jpg" alt="ALT NAME" class="pull-left span1 clearfix" style='margin-right:2px'>
+            <div class="caption" class="pull-left">
+              
+              <h4>      
+                <a href="#" >Luis Felipe Kaufmann</a>
+              </h4>
+              <small><b>RG: </b>99384877</small>
+            </div>
+          </div>
     </div>
-  </div>
-  <div class="span4 rent">
-    <h3>Rentals</h3>
-    <div class="sect">
-          <div class="row text-left">
-            <div class="span3">
-              <img src="img/background.jpg" alt="">
-            </div>
-            <div class="span9">
-              <div class="name">My future house</div>
-              <div class="address">124A Mariners Cove Hampton VA</div>
-              <div class="price">$100,000</div>
-            </div>
-          </div>
-        </div><div class="sect">
-          <div class="row text-left">
-            <div class="span3">
-              <img src="img/background.jpg" alt="">
-            </div>
-            <div class="span9">
-              <div class="name">My future house</div>
-              <div class="address">124A Mariners Cove Hampton VA</div>
-              <div class="price">$100,000</div>
-            </div>
-          </div>
-        </div><div class="sect">
-          <div class="row text-left">
-            <div class="span3">
-              <img src="img/background.jpg" alt="">
-            </div>
-            <div class="span9">
-              <div class="name">My future house</div>
-              <div class="address">124A Mariners Cove Hampton VA</div>
-              <div class="price">$100,000</div>
-            </div>
-          </div>
-        </div>
   </div>
 </div>
 

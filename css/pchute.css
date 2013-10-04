@@ -103,10 +103,9 @@ input.mainIn{
 	margin-top: 25px;
 	background-color: #EEE;
 	border: 1px solid #E4E4E4;
-	padding: 15px;
 	-webkit-box-shadow: 1px 1px 1px rgba(50, 50, 51, 0.4);
--moz-box-shadow:    1px 1px 1px rgba(50, 50, 51, 0.4);
-box-shadow:         1px 1px 1px rgba(50, 50, 51, 0.4);
+	-moz-box-shadow:    1px 1px 1px rgba(50, 50, 51, 0.4);
+	box-shadow:         1px 1px 1px rgba(50, 50, 51, 0.4);
 }
 
 .neigh .sect{
@@ -114,16 +113,12 @@ box-shadow:         1px 1px 1px rgba(50, 50, 51, 0.4);
 	min-height: 20px;
 	font-size: 20px !important;
 	text-align: left;
+	padding: 10px;
 }
 
 .home .sect{
 
 	min-height: 130px;
-}
-
-.home img{
-	width: auto;
-	height: 130px;
 }
 
 
@@ -146,6 +141,20 @@ box-shadow:         1px 1px 1px rgba(50, 50, 51, 0.4);
 	font-weight: lighter;
 }
 
+@media (min-width: 768px){
+	.home img{
+	width: auto;
+	height: 130px;
+	}
+
+	.rent img{
+	width: auto;
+	height: 130px;
+	}
+
+
+}
+
 @media (max-width: 767px) { 
 
 	.mainIn{
@@ -166,6 +175,7 @@ box-shadow:         1px 1px 1px rgba(50, 50, 51, 0.4);
 	.brandName h1{
 		margin-bottom: 30px;
 	}
+
 
 }
 
