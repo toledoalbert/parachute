@@ -36,122 +36,81 @@
   <div class="container results">
 
     <div class="row text-center">
-      <div class="span4 neigh">
+      <!-- <div class="span4 neigh">
         <h3>Neighborhood</h3>
         <div class="sect">Neighborhood</div>
-      </div>
+      </div> -->
       <div class="span4 home">
         <h3>Homes</h3>
 
+      <a href="http://www.trulia.com/property/3129976582-3906-Kegagie-Dr-Norfolk-VA-23518">
         <div class="sect">
           <div class="thumbnail clearfix">
-            <img src="img/background.jpg" alt="ALT NAME" class="pull-left span1 clearfix" style='margin-right:2px'>
+            <img src="Home/Home 1/img.jpg" alt="ALT NAME" class="pull-left span1 clearfix" style='margin-right:2px'>
             <div class="caption" class="pull-left">
 
               <div class="price">
                 <h1 class="text-center price">      
-                  $100K
+                  $1,000,000
                 </h1>
               </div>
               
               <div class="info text-center">
-                <p>Mariners Cove <br> Hampton VA</p>
-                <p>Email: albert@toledo.com</p> 
-                <p>Phone: 757 634 6555</p>
+                <p>3906 Kegagie Dr.<br> Norfolk, VA 23518</p>
+                
               </div>
 
               
             </div>
           </div>
         </div>
+      </a>
 
+      <a href="http://www.trulia.com/property/3093431463-4620-East-Beach-Dr-Norfolk-VA-23518">
         <div class="sect">
           <div class="thumbnail clearfix">
-            <img src="img/background.jpg" alt="ALT NAME" class="pull-left span1 clearfix" style='margin-right:2px'>
+            <img src="Home/Home 2/img.jpg" alt="ALT NAME" class="pull-left span1 clearfix" style='margin-right:2px'>
             <div class="caption" class="pull-left">
 
               <div class="price">
                 <h1 class="text-center price">      
-                  $100K
+                  $995,000
                 </h1>
               </div>
               
               <div class="info text-center">
-                <p>Mariners Cove <br> Hampton VA</p>
-                <p>Email: albert@toledo.com</p> 
-                <p>Phone: 757 634 6555</p>
+                <p>4620 East Beach Dr.<br> Norfolk, VA 23518</p>
+                
               </div>
 
               
             </div>
           </div>
         </div>
+      </a>
 
+      <a href="http://www.trulia.com/property/3039617019-844-Shillelagh-Rd-Chesapeake-VA-23323">
         <div class="sect">
           <div class="thumbnail clearfix">
-            <img src="img/background.jpg" alt="ALT NAME" class="pull-left span1 clearfix" style='margin-right:2px'>
+            <img src="Home/Home 3/img.jpg" alt="ALT NAME" class="pull-left span1 clearfix" style='margin-right:2px'>
             <div class="caption" class="pull-left">
 
               <div class="price">
                 <h1 class="text-center price">      
-                  $100K
+                  $995,000
                 </h1>
               </div>
               
               <div class="info text-center">
-                <p>Mariners Cove <br> Hampton VA</p>
-                <p>Email: albert@toledo.com</p> 
-                <p>Phone: 757 634 6555</p>
+                <p>844 Shillelagh Rd.<br> Chesapeake, VA 23323</p>
+                
               </div>
 
               
             </div>
           </div>
         </div>
-
-        <div class="sect">
-          <div class="thumbnail clearfix">
-            <img src="img/background.jpg" alt="ALT NAME" class="pull-left span1 clearfix" style='margin-right:2px'>
-            <div class="caption" class="pull-left">
-
-              <div class="price">
-                <h1 class="text-center price">      
-                  $100K
-                </h1>
-              </div>
-              
-              <div class="info text-center">
-                <p>Mariners Cove <br> Hampton VA</p>
-                <p>Email: albert@toledo.com</p> 
-                <p>Phone: 757 634 6555</p>
-              </div>
-
-              
-            </div>
-          </div>
-        </div>
-
-        <div class="sect">
-          <div class="thumbnail clearfix">
-            <img src="img/background.jpg" alt="ALT NAME" class="pull-left span1 clearfix" style='margin-right:2px'>
-            <div class="caption" class="pull-left">
-
-              <div class="price">
-                <h1 class="text-center price">      
-                  $100K
-                </h1>
-              </div>
-              
-              <div class="info text-center">
-                <p>Mariners Cove <br> Hampton VA</p>
-                <p>Email: albert@toledo.com</p> 
-                <p>Phone: 757 634 6555</p>
-              </div>
-
-              
-            </div>
-          </div>
-        </div>
+      </a>
 
         
       </div>
