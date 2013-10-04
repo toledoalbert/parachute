@@ -25,9 +25,7 @@
 
     <div class="desc">
       <p>
-        Parachute is a tool that lets you search for real estates that fits
-        your salary and expectations when moving from one place to another
-        or when you have a job relocation.
+        Parachute is a tool that finds housing and recreational vehicle options for prospective employees in need of relocation.
       </p>
 
     </div>
