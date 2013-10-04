@@ -53,24 +53,20 @@
           <div class="thumbnail clearfix">
             <img src="img/background.jpg" alt="ALT NAME" class="pull-left span1 clearfix" style='margin-right:2px'>
             <div class="caption" class="pull-left">
+              
+              <div class="price">
+                <h1 class="text-center price">      
+                  $100K
+                </h1>
+              </div>
+              
+              <div class="info text-center">
+                <p>Mariners Cove <br> Hampton VA</p>
+                <p>Email: albert@toledo.com</p> 
+                <p>Phone: 757 634 6555</p>
+              </div>
 
-              <h4>      
-                <a href="#" >Luis Felipe Kaufmann</a>
-              </h4>
-              <small><b>RG: </b>99384877</small>
-            </div>
-          </div>
-        </div>
-
-        <div class="sect">
-          <div class="thumbnail clearfix">
-            <img src="img/background.jpg" alt="ALT NAME" class="pull-left span1 clearfix" style='margin-right:2px'>
-            <div class="caption" class="pull-left">
-
-              <h4>      
-                <a href="#" >Luis Felipe Kaufmann</a>
-              </h4>
-              <small><b>RG: </b>99384877</small>
+              
             </div>
           </div>
         </div>
@@ -81,15 +77,15 @@
             <div class="caption" class="pull-left">
               
               <div class="price">
-              <h1 class="text-center price">      
-                $100K
-              </h1>
+                <h1 class="text-center price">      
+                  $100K
+                </h1>
               </div>
               
               <div class="info text-center">
-              <p>Mariners Cove <br> Hampton VA</p>
-              <p>Email: albert@toledo.com</p> 
-              <p>Phone: 757 634 6555</p>
+                <p>Mariners Cove <br> Hampton VA</p>
+                <p>Email: albert@toledo.com</p> 
+                <p>Phone: 757 634 6555</p>
               </div>
 
               
@@ -101,11 +97,42 @@
           <div class="thumbnail clearfix">
             <img src="img/background.jpg" alt="ALT NAME" class="pull-left span1 clearfix" style='margin-right:2px'>
             <div class="caption" class="pull-left">
+              
+              <div class="price">
+                <h1 class="text-center price">      
+                  $100K
+                </h1>
+              </div>
+              
+              <div class="info text-center">
+                <p>Mariners Cove <br> Hampton VA</p>
+                <p>Email: albert@toledo.com</p> 
+                <p>Phone: 757 634 6555</p>
+              </div>
 
-              <h4>      
-                <a href="#" >Luis Felipe Kaufmann</a>
-              </h4>
-              <small><b>RG: </b>99384877</small>
+              
+            </div>
+          </div>
+        </div>
+
+        <div class="sect">
+          <div class="thumbnail clearfix">
+            <img src="img/background.jpg" alt="ALT NAME" class="pull-left span1 clearfix" style='margin-right:2px'>
+            <div class="caption" class="pull-left">
+              
+              <div class="price">
+                <h1 class="text-center price">      
+                  $100K
+                </h1>
+              </div>
+              
+              <div class="info text-center">
+                <p>Mariners Cove <br> Hampton VA</p>
+                <p>Email: albert@toledo.com</p> 
+                <p>Phone: 757 634 6555</p>
+              </div>
+
+              
             </div>
           </div>
         </div>
@@ -113,38 +140,67 @@
       <div class="span4 rent">
         <h3>Rentals</h3>
         <div class="sect">
-                    <div class="thumbnail clearfix">
+          <div class="thumbnail clearfix">
             <img src="img/background.jpg" alt="ALT NAME" class="pull-left span1 clearfix" style='margin-right:2px'>
             <div class="caption" class="pull-left">
               
-              <h4>      
-                <a href="#" >Luis Felipe Kaufmann</a>
-              </h4>
-              <small><b>RG: </b>99384877</small>
+              <div class="price">
+                <h1 class="text-center price">      
+                  $100K
+                </h1>
+              </div>
+              
+              <div class="info text-center">
+                <p>Mariners Cove <br> Hampton VA</p>
+                <p>Email: albert@toledo.com</p> 
+                <p>Phone: 757 634 6555</p>
+              </div>
+
+              
+            </div>
+          </div>
+        </div>
+        <div class="sect">
+          <div class="thumbnail clearfix">
+            <img src="img/background.jpg" alt="ALT NAME" class="pull-left span1 clearfix" style='margin-right:2px'>
+            <div class="caption" class="pull-left">
+              
+              <div class="price">
+                <h1 class="text-center price">      
+                  $100K
+                </h1>
+              </div>
+              
+              <div class="info text-center">
+                <p>Mariners Cove <br> Hampton VA</p>
+                <p>Email: albert@toledo.com</p> 
+                <p>Phone: 757 634 6555</p>
+              </div>
+
+              
             </div>
           </div>
         </div><div class="sect">
-                  <div class="thumbnail clearfix">
-            <img src="img/background.jpg" alt="ALT NAME" class="pull-left span1 clearfix" style='margin-right:2px'>
-            <div class="caption" class="pull-left">
-              
-              <h4>      
-                <a href="#" >Luis Felipe Kaufmann</a>
-              </h4>
-              <small><b>RG: </b>99384877</small>
+        <div class="thumbnail clearfix">
+          <img src="img/background.jpg" alt="ALT NAME" class="pull-left span1 clearfix" style='margin-right:2px'>
+          <div class="caption" class="pull-left">
+            
+            <div class="price">
+              <h1 class="text-center price">      
+                $100K
+              </h1>
             </div>
-          </div>
-      </div><div class="sect">
-                <div class="thumbnail clearfix">
-            <img src="img/background.jpg" alt="ALT NAME" class="pull-left span1 clearfix" style='margin-right:2px'>
-            <div class="caption" class="pull-left">
-              
-              <h4>      
-                <a href="#" >Luis Felipe Kaufmann</a>
-              </h4>
-              <small><b>RG: </b>99384877</small>
+            
+            <div class="info text-center">
+              <p>Mariners Cove <br> Hampton VA</p>
+              <p>Email: albert@toledo.com</p> 
+              <p>Phone: 757 634 6555</p>
             </div>
+
+            
           </div>
+        </div>
+      </div>
     </div>
   </div>
 </div>
