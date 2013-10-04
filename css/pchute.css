@@ -100,7 +100,6 @@ input.mainIn{
 }
 
 .sect{
-	min-height: 130px;
 	margin-top: 25px;
 	background-color: #EEE;
 	border: 1px solid #E4E4E4;
@@ -110,8 +109,32 @@ input.mainIn{
 box-shadow:         1px 1px 1px rgba(50, 50, 51, 0.4);
 }
 
+.neigh .sect{
+
+	min-height: 20px;
+	font-size: 20px !important;
+	text-align: left;
+}
+
+.home .sect{
+
+	min-height: 130px;
+}
+
+.home img{
+	width: auto;
+	height: 130px;
+}
+
+
+.rent .sect{
+
+	min-height: 130px;
+}
+
+
 .sect:hover{
-	background-color: #DDD;
+	background-color: #E2E2E2;
 	cursor: pointer;
 }
 
