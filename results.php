@@ -24,7 +24,8 @@
               <form class="navbar-form form-inline pull-right" method="get" action="results.php">
     <input type="text" placeholder="Enter Salary" name="salary" class="inputField">
     <input type="password" placeholder="Enter Zip Code" name="zip" class="inputField">
-    <button type="submit" class="btn btn-success"><i class="icon-search icon-white"></i>Go!</button>
+
+    <button type="submit" class="btn btn-go"><i class="icon-search icon-white"></i>Go!</button>
 </form>
             </ul>
           </div>
@@ -32,7 +33,28 @@
       </div>
     </div>
 
-  <div class="container">
+  <div class="container results">
+
+    <div class="row text-center">
+      <div class="span4">
+        <h3>Neighborhoods</h3>
+        <div class="sect">Section for Info</div>
+        <div class="sect">Section for Info</div>
+        <div class="sect">Section for Info</div>
+      </div>
+      <div class="span4">
+        <h3>Homes</h3>
+        <div class="sect">Section for Info</div>
+        <div class="sect">Section for Info</div>
+        <div class="sect">Section for Info</div>
+      </div>
+      <div class="span4">
+        <h3>Rentals</h3>
+        <div class="sect">Section for Info</div>
+        <div class="sect">Section for Info</div>
+        <div class="sect">Section for Info</div>
+      </div>
+    </div>
     
 
 
