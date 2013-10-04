@@ -141,6 +141,8 @@ input.mainIn{
 	font-weight: lighter;
 }
 
+
+
 @media (min-width: 768px){
 	.home img{
 	width: auto;
@@ -196,6 +198,10 @@ input.mainIn{
 		width: 96%;
 		margin: 0 auto;
 	}
+
+	h1.price{
+	font-size: 60px;
+}
 	
 }
 
