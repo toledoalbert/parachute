@@ -23,7 +23,7 @@
           <ul class="nav pull-right">
             <form class="navbar-form form-inline pull-right" method="get" action="results.php">
               <input type="text" placeholder="Enter Salary" name="salary" class="inputField">
-              <input type="password" placeholder="Enter Zip Code" name="zip" class="inputField">
+              <input type="text" placeholder="Enter Zip Code" name="zip" class="inputField">
 
               <button type="submit" class="btn btn-go"><i class="icon-search icon-white"></i>Go!</button>
             </form>
@@ -53,7 +53,7 @@
           <div class="thumbnail clearfix">
             <img src="img/background.jpg" alt="ALT NAME" class="pull-left span1 clearfix" style='margin-right:2px'>
             <div class="caption" class="pull-left">
-              
+
               <h4>      
                 <a href="#" >Luis Felipe Kaufmann</a>
               </h4>
@@ -66,7 +66,7 @@
           <div class="thumbnail clearfix">
             <img src="img/background.jpg" alt="ALT NAME" class="pull-left span1 clearfix" style='margin-right:2px'>
             <div class="caption" class="pull-left">
-              
+
               <h4>      
                 <a href="#" >Luis Felipe Kaufmann</a>
               </h4>
@@ -79,7 +79,7 @@
           <div class="thumbnail clearfix">
             <img src="img/background.jpg" alt="ALT NAME" class="pull-left span1 clearfix" style='margin-right:2px'>
             <div class="caption" class="pull-left">
-              
+
               <h4>      
                 <a href="#" >Luis Felipe Kaufmann</a>
               </h4>
@@ -92,7 +92,7 @@
           <div class="thumbnail clearfix">
             <img src="img/background.jpg" alt="ALT NAME" class="pull-left span1 clearfix" style='margin-right:2px'>
             <div class="caption" class="pull-left">
-              
+
               <h4>      
                 <a href="#" >Luis Felipe Kaufmann</a>
               </h4>
